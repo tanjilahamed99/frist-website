@@ -1,0 +1,439 @@
+body{
+    font-family: tahoma;
+}
+.left-site{
+    width: 50%;
+    display: block;
+    float: left;
+}
+.right-site{
+    width: 50%;
+    display: block;
+    float: left;
+    background-image: url(image/bac.jpg);
+    background-position-x: bottom;
+    background-size: 899px;
+}
+.image{
+    width: 30%;
+    display: block;
+    float: left;
+}
+.text{
+    width: 70%;
+    display: block;
+    float: left;
+}
+.image img{
+    width: 65px;
+    margin-left: 50px;
+}
+.text h2{
+    margin-top: 34px;
+    font-size: 20px;
+}
+.text h3{
+    margin-top: 136px;
+    font-size: 20px;
+}
+.down h5{
+   float: left;
+   padding: 5px;
+   height: 20px;
+   background-color: #f39c12;
+   border-radius: 5px;
+   margin-bottom: 10px;
+}
+.down h6{
+   width: 50%;
+   float: left;
+   margin-left: 31px;
+   border-radius: 83px;
+   font-size: 15px;
+   margin-bottom: 6px;
+   height: 5px;
+   display: block;
+   margin-top: 28px;
+   border-color: #f39c12;
+   color: #f39c12;
+}
+.text-right h2{
+    float: left;
+    display: block;
+    padding: 5px;
+    margin-left: 150px;
+    font-size: 15px;
+}
+.text-right h3{
+    float: left;
+    display: block;
+    padding: 5px;
+    margin-left: 50px;
+    font-size: 15px;
+    
+}
+.text-right h4{
+    float: left;
+    display: block;
+    padding: 2px;
+    margin-left: 50px;
+    font-size: 15px;
+    background-color: #f39c12;
+    border-radius: 5px;
+    
+}
+.text-right h4::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.man-image img{
+    display: block;
+    width: 46%;
+    margin-left: 255px;  
+}
+.about h2{
+    display: block;
+    padding-top: 42%;
+    margin-left: 42%;
+    font-size: 17px;
+}
+.about p{
+    width: 33%;
+    margin-left: 31%;
+    display: block;
+    font-size: 10px;
+}
+.name{
+    float: left;
+    display: block;
+    margin-left: 32%;
+    padding: 10px;
+    font-size: 10px;
+    margin-top: -8px;
+}
+.Email{
+    float: left;
+    display: block;
+    margin-top: 3px;
+    font-size: 10px;
+    margin-left: 14px;
+}
+.Date-birth{
+    float: left;
+    display: block;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: -8px;
+    font-size: 10px;
+}
+.From{
+    float: left;
+    display: block;
+    padding: 10px;
+    margin-left: 743px;
+    margin-top: -85px;
+    font-size: 10px;
+}
+.mid-1{
+    display: block;
+    text-align: center;
+}
+.mid-1 h1{
+    display: block;
+    width: 93%;
+    margin-top: 16%;
+    font-size: 17px;
+}
+.mid-1 p{
+    width: 496px;
+    font-size: 10px;
+    margin-left: 392px;
+}
+.left-pro{
+    width: 50%;
+    display: block;
+    float: left;
+    padding-top: 50px;
+}
+.right-pro{
+    width: 50%;
+    display: block;
+    float: left;
+    padding-top: 50px;
+}
+.left-area{
+    width: 50%;
+    display: block;
+    float: left;
+}
+.right-area{
+    width: 50%;
+    display: block;
+    float: left;
+}
+
+.left-1{
+    width: 50%;
+    display: block;
+    float: left;
+}
+.right-1{
+    width: 50%;
+    display: block;
+    float: left;
+}
+.left-area img{
+    width: 8%;
+    margin-left: 360px; 
+}
+.left-area h2{
+      margin-left: 360px; 
+      font-size: 12px;
+}
+.left-area p{
+    width: 114px;
+    font-size: 10px;
+    margin-left: 360px;
+}
+.right-area img{
+    width: 8%;
+    margin-left: 181px; 
+}
+.right-area h2{
+      margin-left: 181px; 
+      font-size: 12px;
+}
+.right-area p{
+    width: 114px;
+    font-size: 10px;
+    margin-left:181px;
+}
+
+.left-1 img{
+    width: 8%;
+    margin-left: 6px; 
+}
+.left-1 h2{
+      margin-left: 6px; 
+      font-size: 12px;
+}
+.left-1 p{
+    width: 114px;
+    font-size: 10px;
+    margin-left: 6px;
+}
+.right-1 img{
+    width: 8%;
+    margin-left: -168px
+}
+.right-1 h2{
+      margin-left: -168px; 
+      font-size: 12px;
+}
+.right-1 p{
+    width: 114px;
+    font-size: 10px;
+    margin-left: -168px;
+}
+.title h2{
+    font-size: 17px;
+    display: block;
+    margin-top: 22%;
+    text-align: center;
+}
+.left-info{
+   width: 50%;
+   float: left;
+}
+.right-info{
+   width: 50%;
+   float: left;
+}
+.info-1{
+    margin-left: 45%;
+}
+.info-2{
+    margin-left: 45%;
+}
+.info-3{
+    margin-left: 45%;
+}
+.info-1 h2{
+    font-size: 17px;
+    padding: 5px;
+}
+.info-1 h3{
+    font-size: 15px;
+}
+.info-1 h4{
+    font-size: 12px;
+    padding-top: 0;
+    margin-top: -8px;
+}
+.info-1 p{
+    font-size: 10px;
+}
+
+
+.info-2 h2{
+    font-size: 17px;
+    padding: 5px;
+}
+.info-2 h3{
+    font-size: 15px;
+}
+.info-2 h4{
+    font-size: 12px;
+    padding-top: 0;
+    margin-top: -8px;
+}
+.info-2 p{
+    font-size: 10px;
+}
+
+
+.info-3 h2{
+    font-size: 17px;
+    padding: 5px;
+}
+.info-3 h3{
+    font-size: 15px;
+}
+.info-3 h4{
+    font-size: 12px;
+    padding-top: 0;
+    margin-top: -8px;
+}
+.info-3 p{
+    font-size: 10px;
+}
+
+
+.info-4{
+    margin-left:10%;
+}
+.info-5{
+    margin-left: 10%;
+}
+.info-6{
+    margin-left: 10%;
+}
+
+
+.info-4 h2{
+    font-size: 17px;
+    padding: 5px;
+}
+.info-4 h3{
+    font-size: 15px;
+}
+.info-4 h4{
+    font-size: 12px;
+    padding-top: 0;
+    margin-top: -8px;
+}
+.info-4 p{
+    font-size: 10px;
+    width: 62%;
+}
+
+.info-5 h3{
+    font-size: 15px;
+}
+.info-5 h4{
+    font-size: 12px;
+    padding-top: 0;
+    margin-top: -8px;
+}
+.info-5 p{
+    font-size: 10px;
+    width: 62%;
+}
+
+.info-6 h3{
+    font-size: 15px;
+}
+.info-6 h4{
+    font-size: 12px;
+    padding-top: 0;
+    margin-top: -8px;
+}
+.info-6 p{
+    font-size: 10px;
+    width: 62%;
+}
+.right-info hr{
+    width: 63%;
+    margin-right: 50%;
+}
+.down-2 h2{
+    margin-left: 47%;
+    display: block;
+    font-size: 15px;
+    margin-top: 31%;
+    height: 24px;
+    width: 8%;
+    background-color: #f39c12;
+    padding: 5px;
+}
+.left-foot{
+    width: 50%;
+    float: left;
+}
+.right-foot{
+    width: 50%;
+    float: left;
+}
+.left-foot h1{
+    margin-left: 44%;
+    font-size: 17px;
+    margin-top: 24%;
+}
+.left-foot p{
+    margin-left: 44%;
+    font-size: 10px;
+    width: 50%;
+}
+.img-1{
+    float: left;
+}
+.img-2{
+    float: left;
+}
+.img-3{
+    float: left;
+}
+.img-1 img{
+    margin-left: 1288%;
+}
+.img-2 img{
+    margin-left: 1363%;
+}
+.img-3 img{
+    margin-left: 1430%;
+}
+.right-foot{
+    margin-left: -1%;
+}
+.right-foot h1{
+    font-size: 17px;
+    margin-top: 24%;
+    margin-left: 10%;
+}
+.right-foot input{
+    margin-left: 10%;
+    width: 44%;
+    padding: 15px;
+    border-radius: 5px;
+    height: 10%;
+    margin-top: 14px;
+    font-size: 10px;
+}
+.massage input{
+    padding-bottom: 60px;
+}
+.sub input{
+    width: 17%;
+    background-color: #f39c12;
+}

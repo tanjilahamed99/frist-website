@@ -1,0 +1,113 @@
+@media screen and (min-width:880px) and (max-width:1000px){
+    .image img{
+        width: 35%;
+        margin-left: 17px;
+    }
+    .text h2{
+        margin-top: 22px;
+    }
+    .text h3{
+        margin-top: 66px;   
+    }
+    .about h2{
+        padding-top: 47%;
+    }
+    .about p{
+        width: 49%;
+        margin-left: 25%;
+    }
+    .name{
+        margin-left: 27%;
+    }
+    .From{
+        margin-left: 62%;
+    }
+    .mid-1 p{
+         margin-left: 166px;
+    }  
+
+
+    /* projact section */
+
+    .left-area img{
+        width: 13%;
+        margin-left: 187px; 
+    }
+    .left-area h2{
+          margin-left: 187px; 
+          font-size: 12px;
+    }
+    .left-area p{
+        width: 114px;
+        margin-left: 187px;
+    }
+
+    .right-area img{
+        width: 13%;
+        margin-left: 94px; 
+    }
+    .right-area h2{
+          margin-left: 94px; 
+        
+    }
+    .right-area p{
+        width: 114px;
+        margin-left: 94px;
+    }
+
+    .left-1 img{
+        width: 13%;
+        margin-left: 35px; 
+    }
+    .left-1 h2{
+          margin-left: 35px; 
+        
+    }
+    .left-1 p{
+       
+        margin-left: 35px;
+    }
+    .left-1 img{
+        width: 13%;
+        margin-left: 35px; 
+    }
+    .left-1 h2{
+          margin-left: 35px; 
+    }
+    .left-1 p{
+        margin-left: 35px;
+    }
+    .right-1 img{
+        width: 13%;
+        margin-left: -26px; 
+    }
+    .right-1 h2{
+          margin-left: -26px; 
+    }
+    .right-1 p{
+        margin-left: -26px;
+    }
+    .title h2{
+        margin-top: 35%;
+    }
+    .down-2 h2{
+        margin-top: 56%;
+        width: 13%;
+        padding: 2px;
+    }
+    .img-1 img{
+        margin-left: 596%;
+    }
+    .img-2 img{
+        margin-left: 667%;
+    }
+    .img-3 img{
+        margin-left: 754%;
+    }
+    .left-foot h1{
+        margin-left: 32%;
+    }
+    .left-foot p{
+        margin-left: 32%;
+    }
+}

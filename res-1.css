@@ -1,0 +1,556 @@
+@media screen and (max-width: 809px){
+    .image{
+        width: 50%;
+        float: left;
+        display: block;
+    }
+    .text{
+        width: 50%;
+        display: block;
+        float: left;
+    }
+    .image img{
+        width: 25%;
+        margin-left:3px;
+    }
+    .text h2{
+        margin-top: 0px;
+        font-size: 10px;
+        margin-left: -50px;
+        display: block;
+    }
+    .text h3{
+        margin-top: 20px;
+        font-size: 10px;
+        margin-left:-30px;
+    }
+    .text h1{
+       font-size: 12px;
+       margin-left:-30px;
+    }
+    .text h6{
+        font-size: 8px;
+        margin-left:-30px;
+    }
+    .down h5{
+        width:55%;
+       float: left;
+       padding: 2px;
+       height: auto;
+       background-color: #f39c12;
+       border-radius: 5px;
+       font-size: 8px;
+       margin-left: -30px;
+       display: block;
+       margin-top: 0;
+    }
+    .down h6{
+       width: 45%;
+       float: left;
+       font-size: 10px;
+       display: block;
+       margin-left: 9px;
+       margin-top: 1px;
+       border:  .1px solid #f39c12 ;
+       height: auto;
+       padding: 0;
+       color: #f39c12 ;
+       
+    }
+    .right-site h2{
+      font-size: 8px;
+      float: left;
+      margin-top: 0px;
+      margin-left:9px;
+      padding: 0 8px;
+    }
+    .right-site h3{
+        font-size: 8px;
+        float: left;
+        margin-top: 0px;
+        margin-left: 0%;
+        padding: 0 8px;
+    }
+    .right-site h4{
+        font-size: 8px;
+        float: left;
+        margin-top: 1px;
+        margin-left: 0%;
+        padding: 0 10px;
+        height: auto;
+        width: 16%;
+    }
+    .man-image img{
+        display: block;
+        width: 40%;
+        margin-left: 55%;
+        margin-top: 50px;
+    }
+    .about h2 {
+        
+        display: block;
+        font-size: 10px;
+        margin-bottom: 0;
+        margin-right: 44%;
+        padding-top: 48%;
+    }
+    .about p{
+        width: 70%;
+        margin-left: 18%;
+        display: block;
+        font-size: 8px;
+    }
+    .name{
+        float: left;
+        display: block;
+        margin-left: 19%;
+        padding: 0px;
+        font-size: 8px;
+        margin-top: -8px;
+    }
+    .Email{
+        float: left;
+        display: block;
+        margin-top: -8px;
+        font-size: 8px;
+        margin-left: 16px;
+    }
+    .Date-birth{
+        float: left;
+        display: block;
+        padding: 0px;
+        margin-left: 8px;
+        margin-top: -8px;
+        font-size: 8px;
+    }
+    .From{
+        float: left;
+        display: block;
+        padding: 0px;
+        margin-left: 7px;
+        margin-top: -10px;
+        font-size: 8px;
+    }
+    .mid-1{
+        display: block;
+        text-align: center;
+    }
+    .mid-1 h1{
+        display: block;
+        width: 93%;
+        margin-top: 20%;
+        font-size: 10px;
+    }
+    .mid-1 p{
+        width: 70%;
+        font-size: 8px;
+        margin-left: 50px;
+    }
+
+
+     /*projact */
+    
+     .left-pro{
+        width: 100%;
+        display: block;
+    }
+    .right-pro{
+        width: 100%;
+        display: block;
+    }
+    .left-area{
+        width: 100%;
+        display: block; 
+        padding: 10px; 
+    }
+    .right-area{
+        width: 100%;
+        display: block;  
+        padding: 10px;   
+    }
+    .left-1{
+        width: 100%;
+        display: block;  
+        padding: 10px;  
+    }
+    .right-1{
+        width: 100%;
+        display: block;
+        padding: 10px; 
+    }
+
+    .left-area img{
+        width: 10%;
+        margin-left: 0px; 
+    }
+    .left-area h2{
+          margin-left: 0px; 
+          font-size: 15px;
+    }
+    .left-area p{
+        width: 95%;
+        font-size: 12px;
+        margin-left: 0px;
+    }
+    .right-area img{
+        width: 10%;
+        margin-left: 0px; 
+    }
+    .right-area h2{
+          margin-left: 0px; 
+          font-size: 15px;
+    }
+    .right-area p{
+        width:  95%;
+        font-size: 12px;
+        margin-left: 0px;
+    }
+    .left-1 img{
+        width: 10%;
+        margin-left: 0px; 
+    }
+    .left-1 h2{
+          margin-left: 0px; 
+          font-size: 15px;
+    }
+    .left-1 p{
+        width:  95%;
+        font-size: 12px;
+        margin-left: 0px;
+    }
+    .right-1 img{
+        width: 10%;
+        margin-left: 0px; 
+    }
+    .right-1 h2{
+          margin-left: 0px; 
+          font-size: 15px;
+    }
+    .right-1 p{
+        width: 95%;
+        font-size: 12px;
+        margin-left: 0px;
+    }
+    .title h2{
+        font-size: 15px;
+        display: block;
+        margin-top: 0%;
+        text-align: center;
+    }
+    .left-info{
+        width: 100%;
+     }
+     .right-info{
+        width: 100%;
+     }
+     .info-1{
+        margin-left: 0%;
+    }
+    .info-2{
+        margin-left: 0%;
+    }
+    .info-3{
+        margin-left: 0%;
+    }
+    .info-1 h2{
+        font-size: 15px;
+        padding: 5px;
+    }
+    .info-1 h3{
+        font-size: 13px;
+    }
+    .info-1 h4{
+        font-size: 12px;
+        padding-top: 0;
+        margin-top: -8px;
+    }
+    .info-1 p{
+        font-size: 11px;
+    }
+    .info-2 h2{
+        font-size: 15px;
+        padding: 5px;
+    }
+    .info-2 h3{
+        font-size: 13px;
+    }
+    .info-2 h4{
+        font-size: 12px;
+        padding-top: 0;
+        margin-top: -8px;
+    }
+    .info-2 p{
+        font-size: 11px;
+    }
+    .info-3 h2{
+        font-size: 15px;
+        padding: 5px;
+    }
+    .info-3 h3{
+        font-size: 13px;
+    }
+    .info-3 h4{
+        font-size: 12px;
+        padding-top: 0;
+        margin-top: -8px;
+    }
+    .info-3 p{
+        font-size: 11px;
+    }
+    .info-4{
+        margin-left:0%;
+    }
+    .info-5{
+        margin-left: 0%;
+    }
+    .info-6{
+        margin-left: 0%;
+    }
+    .info-4 h2{
+        font-size: 15px;
+        padding: 5px;
+    }
+    .info-4 h3{
+        font-size: 13px;
+    }
+    .info-3 h4{
+        font-size: 12px;
+        padding-top: 0;
+        margin-top: -8px;
+    }
+    .info-4 p{
+        font-size: 11px;
+        width: 95%;
+    }
+    .info-5 h2{
+        font-size: 15px;
+        padding: 5px;
+    }
+    .info-5 h3{
+        font-size: 13px;
+    }
+    .info-5 h4{
+        font-size: 12px;
+        padding-top: 0;
+        margin-top: -8px;
+    }
+    .info-3 p{
+        font-size: 11px;
+        width: 95%;
+    }
+    .info-6 h2{
+        font-size: 15px;
+        padding: 5px;
+    }
+    .info-6 h3{
+        font-size: 13px;
+    }
+    .info-6 h4{
+        font-size: 12px;
+        padding-top: 0;
+        margin-top: -8px;
+    }
+    .info-6 p{
+        font-size: 11px;
+        width: 95%;
+    }
+    .right-info hr{
+        width: 98%;
+    }
+    .down-2 h2{
+       
+        margin-left: 35%;
+        display: block;
+        font-size: 10px;
+        margin-top: 740px;
+        height: 12px;
+        width: 23%;
+        background-color: #f39c12;
+        padding: 5px;
+        color:white;
+        text-align:center;
+    }
+
+
+    /*fotter-area*/
+
+    .left-foot{
+        width: 100%;
+        float: left;
+    }
+    .right-foot{
+        width: 100%;
+        float: left;
+    }
+    .left-foot h1{
+        margin-left: 1%;
+        font-size: 15px;
+        margin-top: 10%;
+    }
+    .left-foot p{
+        margin-left: 1%;
+        font-size: 12px;
+        width: 95%;
+    }
+    .img-1{
+        float: left;
+    }
+    .img-2{
+        float: left;
+    }
+    .img-3{
+        float: left;
+    }
+    .img-1 img{
+        margin-left: 0%;
+        padding: 5px;
+    }
+    .img-2 img{
+        margin-left: 0%;
+        padding: 5px;
+    }
+    .img-3 img{
+        margin-left: 0%;
+        padding: 5px;
+    }
+
+    .right-foot{
+        margin-left: -1%;
+    }
+    .right-foot h1{
+        font-size: 17px;
+        margin-top: 24%;
+        margin-left: 1%;
+    }
+    .right-foot input{
+        margin-left: 1%;
+        width: 44%;
+        padding: 15px;
+        border-radius: 5px;
+        height: 10%;
+        margin-top: 14px;
+        font-size: 10px;
+    }
+    .massage input{
+        padding-bottom: 60px;
+    }
+    .sub input{
+        width: 17%;
+        background-color: #f39c12;
+    }
+}
+ @media screen and (min-width:360px) and (max-width:396px) {
+    .down h5{
+       width:65%;
+    }
+    .name{
+        margin-left: 12%;
+    }
+    .down-2 h2{
+        margin-left: 35%;
+        display: block;
+        font-size: 10px;
+        margin-top: 237%;
+        height: 12px;
+        width: 23%;
+        background-color: #f39c12;
+        padding: 5px;
+        color:white;
+        text-align:center;
+    }
+}
+@media screen and (min-width:1001px) and (max-width:1295px){
+    .about h2{
+        padding-top: 53%;
+    }
+    .about p{
+        margin-left: 32%;
+    }
+    .name{
+        margin-left: 30%;
+    }
+    .From{
+        margin-left: 608px;
+    }
+    .mid-1 p{
+        margin-left: 230px;
+    }
+    .left-area img{
+        margin-left: 252px; 
+    }
+    .left-area h2{
+        margin-left: 252px; 
+    }
+    .left-area p{
+        margin-left: 252px; 
+    }
+    .right-area img{
+        margin-left: 143px;
+    }
+    .right-area h2{
+        margin-left: 143px;
+    }
+    .right-area p{
+        margin-left: 143px;
+    }
+    .left-1 img{
+        margin-left: 34px; 
+    }
+    .left-1 h2{
+        margin-left: 34px; 
+    }
+    .left-1 p{
+        margin-left: 34px; 
+    }
+    .right-1 img{
+        margin-left: -76px
+    }
+    .right-1 h2{
+        margin-left: -76px
+    }
+    .right-1 p{
+        margin-left: -76px
+    }
+    .down-2 h2{
+        margin-left: 44%;
+        display: block;
+        font-size: 15px;
+        margin-top: 45%;
+        height: 19px;
+        width: 15%;
+        background-color: #f39c12;
+        padding: 5px;
+        color:white;
+        text-align:center;
+    }
+}
+@media screen and (min-width:1051px) and (max-width:1080px){
+    .From{
+        margin-left: 614px;
+    }
+}
+@media screen and (min-width:1081px) and (max-width:1100px){
+    .From{
+        margin-left: 629px;
+    }
+}
+@media screen and (min-width:1101px) and (max-width:1140px){
+    .From{
+        margin-left: 636px;
+    }
+}
+@media screen and (min-width:1141px) and (max-width:1200px){
+    .From{
+        margin-left: 657px;
+    }
+}
+@media screen and (min-width:1201px) and (max-width:1290px){
+    .From{
+        margin-left: 680px;
+    }
+}
+@media screen and (min-width:1291px) and (max-width:1300px){
+    .From{
+        margin-left: 698px;
+    }
+}
